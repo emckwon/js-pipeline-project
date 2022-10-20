@@ -1,6 +1,7 @@
 
 def buildApp() {
-    echo 'building the applications...!'
+    echo 'github webhook'
+    echo 'building the applications...'
 }
 
 def testApp() {
