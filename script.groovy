@@ -1,6 +1,6 @@
 
 def buildApp() {
-    echo 'building the applications'
+    echo 'building the applications...'
 }
 
 def testApp() {
