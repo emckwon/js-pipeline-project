@@ -1,6 +1,6 @@
 
 def buildApp() {
-    echo 'github webhook activate'
+    echo 'github webhook activate!'
     echo 'building the applications...'
 }
 
